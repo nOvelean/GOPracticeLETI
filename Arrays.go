@@ -39,4 +39,5 @@ func main() {
 	k := Kvadrat{A:4}
 	s := Round{Radius: 1}
 	fmt.Println(culcSquare(k), culcSquare(s))
+
 }
